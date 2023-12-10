@@ -1,0 +1,268 @@
+
+.dropdown-menu.show {
+   	width: 900px;
+   	background-color: #eee;
+}
+.button 
+{
+	background: #ffffff;
+	color: #fff;
+	border: none;
+}
+
+.go-social {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.go-social .fa-facebook {
+	color: #0038ac;
+}
+
+.go-social .fa-twitter {
+	color: #38A1F3;
+}
+
+.go-social .fa-instagram {
+	color: #cd486b;
+}
+
+.mt-2 {
+	margin-top: .5rem !important;
+}
+
+.go-social .col {
+	flex: 0;
+}
+
+.header-notice {
+	text-transform: uppercase;
+	text-align: center;
+	padding: 6px;
+	margin-bottom: 0;
+	color: #2a8edf;
+	font-weight: 600;
+}
+
+.price-new {
+	color: #e91e63;
+}
+
+.price-old, .price-new {
+	font-weight: 500;
+}
+
+.buynow-button a {
+	padding: 6px 20px;
+	background: #1eabe9;
+	color: #ffffff;
+	font-weight: 500;
+	border-radius: 4px;
+	font-size: 12px;
+}
+
+.percent-off-rounded {
+	position: absolute;
+	right: 5px;
+	top: 5px;
+	width: 48px;
+	height: 48px;
+	background: #f50101;
+	color: #ffff;
+	font-size: 11px;
+	font-weight: 600;
+	border-radius: 50%;
+	padding-top: 6px;
+	line-height: 18px;
+}
+
+.row {
+	--bs-gutter-x: 1.5rem;
+	--bs-gutter-y: 0;
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: calc(-1 * var(--bs-gutter-y));
+	margin-right: calc(-.5 * var(--bs-gutter-x));
+	margin-left: calc(-.5 * var(--bs-gutter-x));
+	justify-content: center;
+}
+
+#menu .dropdown-inner a {
+	min-width: 250px;
+	display: block;
+	padding: 7px 20px;
+	clear: both;
+	line-height: 20px;
+	color: #333333;
+	font-size: 13px;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+
+#menu .navbar-nav>li>a {
+	color: #4a4a4a;
+	font-weight: 600;
+	padding: 10px 15px 10px 15px;
+	min-height: 15px;
+	background-color: transparent;
+	text-transform: uppercase;
+}
+
+#menu .dropdown-inner ul li a:hover {
+	color: #1755c8;
+}
+
+#menu .navbar-nav>li>a:hover {
+	color: #1755c8;
+}
+
+.carousel {
+	position: relative;
+	border: 4px solid #fff;
+	border-radius: 4px;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+	margin-bottom: 50px;
+}
+
+.imghoa {
+	position: relative;
+	border: 4px solid #fff;
+	border-radius: 4px;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+	margin-bottom: 50px;
+}
+
+.go-social {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.go-social .fa-facebook {
+    color: #0038ac;
+}
+
+.go-social .fa-twitter {
+    color: #38A1F3;
+}
+
+.go-social .fa-instagram {
+    color: #cd486b;
+}
+
+.mt-2 {
+    margin-top: .5rem!important;
+}
+
+.go-social .col {
+    flex: 0;  
+}
+
+.dathoa {
+    color: #2a8edf;
+}
+.price-new {
+    color: #e91e63;
+}
+.price-old, .price-new {
+    font-weight: 500;
+}
+.buynow-button a {
+    padding: 6px 20px;
+    background: #1eabe9;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 4px;
+    font-size: 12px;
+}
+.percent-off-rounded {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 48px;
+    height: 48px;
+    background: #f50101;
+    color: #ffff;
+    font-size: 11px;
+    font-weight: 600;
+    border-radius: 50%;
+    padding-top: 6px;
+    line-height: 18px;
+}
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+    justify-content: center;
+}
+
+
+#menu .dropdown-inner a {
+    min-width: 250px;
+    display: block;
+    padding: 7px 20px;
+    clear: both;
+    line-height: 20px;
+    color: #333333;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+#menu .navbar-nav > li > a {
+    color: #4a4a4a;
+    font-weight: 600;
+    padding: 10px 15px 10px 15px;
+    min-height: 15px;
+    background-color: transparent;
+    text-transform: uppercase;
+}
+
+#menu .dropdown-inner ul li a:hover {
+    color: #1755c8;
+}
+
+#menu .navbar-nav > li > a:hover {
+    color: #1755c8;
+}
+
+.carousel {
+    position: relative;
+    border: 4px solid #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    margin-bottom: 50px;
+}
+
+.imghoa{
+    position: relative;
+    border: 4px solid #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    margin-bottom: 50px;
+}
+
+.icon_flower {
+    clear: both;
+    width: 100%;
+    background: #f7f7f7;
+    -webkit-box-shadow: 0 2px 5px #0000001a;
+    -moz-box-shadow: 0 2px 5px #0000001a;
+    box-shadow: 0 2px 5px #0000001a;
+    margin-top: 15px;
+}
+.icon_flower ul.items a:hover img {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+}
+.icon_flower h2 {
+    color: #bd2026;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 15px 0 0;
+    font-weight: 600;
+}
